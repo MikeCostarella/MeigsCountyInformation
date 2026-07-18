@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Compiled Technologies";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Meigs County Commissioners", category: "Government", subcategory: "County", url: "https://meigscountycommissioners.com/", description: "Board of commissioners - the main governing body for Meigs County." },
